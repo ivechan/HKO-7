@@ -1,0 +1,8 @@
+*.MD
+*.md
+*.txt
+*.pdf
+*.csv
+*.yml
+icdm_data/
+icdm_data

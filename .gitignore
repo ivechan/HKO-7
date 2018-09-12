@@ -114,3 +114,5 @@ hko_data/radarPNG/
 hko_data/radarPNG_mask/
 
 trained_model
+icdm_data/
+icdm_data
